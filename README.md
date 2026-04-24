@@ -20,8 +20,8 @@ The python-based extraction and cleaning pipeline is fully operational.
 5. **CSV Export:** The cleaned DataFrames are exported as 6 relational `.csv` files directly into the `data/processed_data/` folder.
 
 ### Project Structure
-- `Tennis_Data_Pipeline.ipynb`: The main Jupyter Notebook containing the extraction, cleaning, and export logic.
-- `Implementation_Plan.pdf`: A detailed architectural breakdown of how the pipeline works.
+- `api/Tennis_Data_Pipeline.ipynb`: The main Jupyter Notebook containing the extraction, cleaning, and export logic.
+- `app/app.py`: An user friendly interactive website to make it easy to see insights from the fetched data.
 - `data/raw_data/`: Contains the backup JSON API responses (`live_competitions.json`, etc.).
 - `data/processed_data/`: **(IMPORTANT)** Contains the 6 perfectly cleaned CSV files ready for SQL ingestion:
   - `categories.csv`
