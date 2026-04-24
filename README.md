@@ -10,7 +10,10 @@ The project is divided into three main phases. **Phase 1 (Data Engineering)** is
 The python-based extraction and cleaning pipeline is fully operational. 
 
 ### What has been done:
-1. **API Fetching:** The script connects to the SportRadar Tennis API v3 using a valid API key, respecting rate limits, to fetch live data from three endpoints (`competitions`, `complexes`, `double_competitors_rankings`).
+1. **API Fetching:** The script connects to the SportRadar Tennis API v3 using a valid API key, respecting rate limits, to fetch live data from three distinct endpoints:
+   - **Competitions:** `https://api.sportradar.com/tennis/trial/v3/en/competitions.json`
+   - **Complexes:** `https://api.sportradar.com/tennis/trial/v3/en/complexes.json`
+   - **Doubles Rankings:** `https://api.sportradar.com/tennis/trial/v3/en/double_competitors_rankings.json`
 2. **Raw Storage:** The highly nested JSON responses are backed up into the `data/raw_data/` directory.
 3. **Data Flattening:** The pipeline parses the nested JSON (dictionaries within arrays) and flattens them into clean, relational Pandas DataFrames.
 4. **Data Type Enforcement:** Numeric ranking metrics (points, rank, movement) are strictly cast to `int64` integers. Missing values are safely handled to ensure SQL compatibility.
