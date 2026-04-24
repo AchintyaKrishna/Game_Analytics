@@ -1,0 +1,501 @@
+competitor_id,name,country,country_code,abbreviation
+sr:competitor:16160,"Zeballos, Horacio",Argentina,ARG,ZEB
+sr:competitor:15568,"Granollers, Marcel",Spain,ESP,GRA
+sr:competitor:53785,"Skupski, Neal",Great Britain,GBR,SKU
+sr:competitor:59131,"Glasspool, Lloyd",Great Britain,GBR,GLA
+sr:competitor:108099,"Cash, Julian",Great Britain,GBR,CAS
+sr:competitor:14898,"Heliovaara, Harri",Finland,FIN,HEL
+sr:competitor:637970,"Patten, Henry",Great Britain,GBR,PAT
+sr:competitor:74173,"Salisbury, Joe",Great Britain,GBR,SAL
+sr:competitor:49363,"Pavic, Mate",Croatia,HRV,PAV
+sr:competitor:51836,"Arevalo, Marcelo",El Salvador,SLV,ARE
+sr:competitor:36593,"Krawietz, Kevin",Germany,DEU,KRA
+sr:competitor:52293,"Putz, Tim",Germany,DEU,PUT
+sr:competitor:52065,"Harrison, Christian",USA,USA,HAR
+sr:competitor:95801,"Vavassori, Andrea",Italy,ITA,VAV
+sr:competitor:15310,"Bolelli, Simone",Italy,ITA,BOL
+sr:competitor:47295,"Andreozzi, Guido",Argentina,ARG,AND
+sr:competitor:52202,"Nys, Hugo",Monaco,MCO,NYS
+sr:competitor:14835,"Roger-Vasselin, Edouard",France,FRA,ROG
+sr:competitor:16608,"Mektic, Nikola",Croatia,HRV,MEK
+sr:competitor:121182,"Guinard, Manuel",France,FRA,GUI
+sr:competitor:127646,"Cabral, Francisco",Portugal,PRT,CAB
+sr:competitor:106559,"Doumbia, Sadio",France,FRA,DOU
+sr:competitor:106349,"Reboul, Fabien",France,FRA,REB
+sr:competitor:78793,"Miedler, Lucas",Austria,AUT,MIE
+sr:competitor:22967,"Bhambri, Yuki",India,IND,BHA
+sr:competitor:47966,"Olivetti, Albano",France,FRA,OLI
+sr:competitor:231090,"Arribage, Theo",France,FRA,ARR
+sr:competitor:23899,"King, Evan",USA,USA,KIN
+sr:competitor:111195,"Luz, Orlando",Brazil,BRA,LUZ
+sr:competitor:838776,"Tracy, James",USA,USA,TRA
+sr:competitor:76263,"Matos, Rafael",Brazil,BRA,MAT
+sr:competitor:52951,"Pel, David",Netherlands,NLD,PEL
+sr:competitor:112805,"Zielinski, Jan",Poland,POL,ZIE
+sr:competitor:114831,"Erler, Alexander",Austria,AUT,ERL
+sr:competitor:393598,"Cash, Robert",USA,USA,CAS
+sr:competitor:112969,"Schnaitter, Jakob",Germany,DEU,SCH
+sr:competitor:936355,"Wallner, Mark",Germany,DEU,WAL
+sr:competitor:38181,"Molteni, Andres",Argentina,ARG,MOL
+sr:competitor:231188,"Frantzen, Constantin",Germany,DEU,FRA
+sr:competitor:206889,"Galloway, Robert",USA,USA,GAL
+sr:competitor:25189,"Krajicek, Austin",USA,USA,KRA
+sr:competitor:70348,"Goransson, Andre",Sweden,SWE,GOR
+sr:competitor:16124,"Melo, Marcelo",Brazil,BRA,MEL
+sr:competitor:152900,"Rikl, Patrik",Czechia,CZE,RIK
+sr:competitor:14553,"Ram, Rajeev",USA,USA,RAM
+sr:competitor:59324,"Pavlasek, Adam",Czechia,CZE,PAV
+sr:competitor:62410,"Johnson, Luke",Great Britain,GBR,JOH
+sr:competitor:15305,"Gonzalez, Santiago",Mexico,MEX,GON
+sr:competitor:16151,"Venus, Michael",New Zealand,NZL,VEN
+sr:competitor:15548,"Gonzalez, Maximo",Argentina,ARG,GON
+sr:competitor:66864,"Arends, Sander",Netherlands,NLD,ARE
+sr:competitor:80665,"Polmans, Marc",Australia,AUS,POL
+sr:competitor:16042,"Haase, Robin",Netherlands,NLD,HAA
+sr:competitor:17038,"Smith, John-Patrick",Australia,AUS,SMI
+sr:competitor:234044,"Kirkov, Vasil",USA,USA,KIR
+sr:competitor:234124,"Stevens, Bart",Netherlands,NLD,STE
+sr:competitor:204781,"Nouza, Petr",Czechia,CZE,NOU
+sr:competitor:44553,"Herbert, Pierre-Hugues",France,FRA,HER
+sr:competitor:204495,"Vocel, Matej",Czechia,CZE,VOC
+sr:competitor:299130,"Hijikata, Rinky",Australia,AUS,HIJ
+sr:competitor:280601,"Oberleitner, Neil",Austria,AUT,OBE
+sr:competitor:56629,"Peers, John",Australia,AUS,PEE
+sr:competitor:1020797,"Trhac, Patrik",USA,USA,TRH
+sr:competitor:256001,"Ho, Ray",Chinese Taipei,TPE,RAY
+sr:competitor:16823,"Romboli, Fernando",Brazil,BRA,ROM
+sr:competitor:287215,"Seggerman, Ryan",USA,USA,SEG
+sr:competitor:52244,"Balaji, N. Sriram",India,IND,BAL
+sr:competitor:108755,"Jebens, Hendrik",Germany,DEU,JEB
+sr:competitor:81059,"Gille, Sander",Belgium,BEL,GIL
+sr:competitor:39726,"Kubler, Jason",Australia,AUS,KUB
+sr:competitor:41475,"Arneodo, Romain",Monaco,MCO,ARN
+sr:competitor:230186,"Verbeek, Sem",Netherlands,NLD,VER
+sr:competitor:52263,"Hidalgo, Diego",Ecuador,ECU,HID
+sr:competitor:45105,"Behar, Ariel",Uruguay,URY,BEH
+sr:competitor:16573,"Demoliner, Marcelo",Brazil,BRA,DEM
+sr:competitor:16992,"Willis, Marcus",Great Britain,GBR,WIL
+sr:competitor:16409,"Ebden, Matthew",Australia,AUS,EBD
+sr:competitor:243522,"Paul, Jakub",Switzerland,CHE,PAU
+sr:competitor:15307,"Bopanna, Rohan",India,IND,BRO
+sr:competitor:49306,"Reyes-Varela, Miguel Angel",Mexico,MEX,REY
+sr:competitor:147104,"Romios, Matthew Christopher",Australia,AUS,ROM
+sr:competitor:422955,"Sanchez, Luca",France,FRA,SAN
+sr:competitor:297448,"Kiger, Mac",USA,USA,KIG
+sr:competitor:359602,"Musetti, Lorenzo",Italy,ITA,MUS
+sr:competitor:104917,"Vliegen, Joran",Belgium,BEL,VLI
+sr:competitor:16198,"Escobar, Gonzalo",Ecuador,ECU,ESC
+sr:competitor:973963,"Watt, James",New Zealand,NZL,WAT
+sr:competitor:263865,"Reynolds, Finn",New Zealand,NZL,REY
+sr:competitor:15588,"Rojer, Jean-Julien",Netherlands,NLD,ROJ
+sr:competitor:90798,"Halys, Quentin",France,FRA,HAL
+sr:competitor:871495,"Michelsen, Alex",USA,USA,MIC
+sr:competitor:104847,"Sonego, Lorenzo",Italy,ITA,SON
+sr:competitor:548169,"Yuzuki, Takeru",Japan,JPN,YUZ
+sr:competitor:48646,"Barrientos, Nicolas",Colombia,COL,BAR
+sr:competitor:614090,"Pieczonka, Filip",Poland,POL,PIE
+sr:competitor:121032,"Stalder, Reese",USA,USA,STA
+sr:competitor:209202,"Chandrasekar, Anirudh",India,IND,CHA
+sr:competitor:180104,"Reymond, Arthur",France,FRA,REY
+sr:competitor:240880,"Hilderbrand, Trey",USA,USA,HIL
+sr:competitor:295508,"Vrbensky, Michael",Czechia,CZE,VRB
+sr:competitor:450383,"Harper, Cleeve",Canada,CAN,HAR
+sr:competitor:99377,"Kestelboim, Mariano",Argentina,ARG,KES
+sr:competitor:110707,"Pichler, David",Austria,AUT,PIC
+sr:competitor:95923,"Paris, Joshua",Great Britain,GBR,PAR
+sr:competitor:163538,"Donski, Alexander",Bulgaria,BGR,DON
+sr:competitor:808628,"Shelton, Ben",USA,USA,SHE
+sr:competitor:628034,"Kittay, Benjamin",USA,USA,KIT
+sr:competitor:37637,"Zeballos, Federico",Bolivia,BOL,ZEB
+sr:competitor:63606,"Rinderknech, Arthur",France,FRA,RIN
+sr:competitor:272245,"Latinovic, Stefan",Serbia,SRB,LAT
+sr:competitor:297502,"Bayldon, Blake",Australia,AUS,BAY
+sr:competitor:296270,"Stevenson, David",Great Britain,GBR,STE
+sr:competitor:918463,"Bollipalli, Rithvik Choudary",India,IND,BOL
+sr:competitor:90080,"Khachanov, Karen",Neutral,,KHA
+sr:competitor:90110,"Serdarusic, Nino",Croatia,HRV,SER
+sr:competitor:111607,"Ingildsen, Johannes",Denmark,DNK,ING
+sr:competitor:113889,"Liutarevich, Ivan",Neutral,,LIU
+sr:competitor:1015089,"Winegar, Theodore",USA,USA,WIN
+sr:competitor:92845,"Goldhoff, George",USA,USA,GOL
+sr:competitor:731833,"Kielan, Szymon",Poland,POL,KIE
+sr:competitor:157396,"Veldheer, Mick",Netherlands,NLD,VEL
+sr:competitor:233144,"Duda, Filip",Czechia,CZE,DUD
+sr:competitor:210736,"Lammons, Nathaniel",USA,USA,LAM
+sr:competitor:59700,"Isaro, Pruchya",Thailand,THA,ISA
+sr:competitor:98413,"Drzewiecki, Karol",Poland,POL,DRZ
+sr:competitor:57163,"Zverev, Alexander",Germany,DEU,ZVE
+sr:competitor:145936,"Kaliyanda Poonacha, Niki",India,IND,KAL
+sr:competitor:73572,"Zormann, Marcelo",Brazil,BRA,ZOR
+sr:competitor:53759,"Natarajan, Vijay Sundar Prashanth",India,IND,NVS
+sr:competitor:161220,"Pavel, Bogdan",Romania,ROU,PAV
+sr:competitor:25458,"Martinez, Luis David",Venezuela,VEN,MAR
+sr:competitor:300540,"Machac, Tomas",Czechia,CZE,MAC
+sr:competitor:310972,"Banthia, Siddhant",India,IND,BAN
+sr:competitor:405969,"Paulson, Andrew",Czechia,CZE,PAU
+sr:competitor:98981,"Jecan, Alexandru",Romania,ROU,JEC
+sr:competitor:126622,"Ruehl, Tim",Germany,DEU,RUE
+sr:competitor:106755,"Rublev, Andrey",Neutral,,RUB
+sr:competitor:124708,"Cukierman, Daniel",Israel,ISR,CUK
+sr:competitor:158912,"Vacherot, Valentin",Monaco,MCO,VAC
+sr:competitor:54609,"Arias, Boris",Bolivia,BOL,ARI
+sr:competitor:55989,"Withrow, Jackson",USA,USA,WIT
+sr:competitor:42151,"Nam, Ji Sung",Republic of Korea,KOR,NAM
+sr:competitor:76361,"Kadhe, Arjun",India,IND,KAD
+sr:competitor:380004,"Harper, Patrick",Australia,AUS,HAR
+sr:competitor:322589,"Pujol Navarro, Bruno",Spain,ESP,PUJ
+sr:competitor:809324,"Pacheco Mendez, Rodrigo",Mexico,MEX,PAC
+sr:competitor:880089,"Pereira, Tiago",Portugal,PRT,PER
+sr:competitor:628218,"Karol, Milos",Slovakia,SVK,KAR
+sr:competitor:55745,"Negritu, Christoph",Germany,DEU,NEG
+sr:competitor:113221,"Niklas-Salminen, Patrik",Finland,FIN,NIK
+sr:competitor:38180,"Mena, Facundo",Argentina,ARG,MEN
+sr:competitor:87690,"Thompson, Jordan",Australia,AUS,THO
+sr:competitor:16854,"Molchanov, Denys",Ukraine,UKR,MOL
+sr:competitor:390480,"Watanabe, Seita",Japan,JPN,WAT
+sr:competitor:505542,"Grevelius, Erik",Sweden,SWE,GRE
+sr:competitor:145008,"Uesugi, Kaito",Japan,JPN,UES
+sr:competitor:168420,"Andrade, Andres",Ecuador,ECU,AND
+sr:competitor:272273,"Mansilla Diez, Mario",Spain,ESP,MAN
+sr:competitor:223868,"Matuszewski, Piotr",Poland,POL,MAT
+sr:competitor:437794,"Heinonen, Adam",Sweden,SWE,HEI
+sr:competitor:77011,"Martos Gornes, Sergio",Spain,ESP,MAR
+sr:competitor:863319,"Fonseca, Joao",Brazil,BRA,FON
+sr:competitor:185434,"Rodriguez Taverna, Santiago",Argentina,ARG,ROD
+sr:competitor:169496,"Etcheverry, Tomas Martin",Argentina,ARG,ETC
+sr:competitor:77653,"Cornea, Victor Vlad",Romania,ROU,COR
+sr:competitor:210592,"Ribeiro, Eduardo",Brazil,BRA,RIB
+sr:competitor:146040,"Gomez, Federico Agustin",Argentina,ARG,GOM
+sr:competitor:202735,"Carou, Ignacio",Uruguay,URY,CAR
+sr:competitor:220590,"Huang, Tsung-Hao",Chinese Taipei,TPE,HUA
+sr:competitor:79223,"Delaney, Jake",Australia,AUS,DEL
+sr:competitor:85877,"Villanueva, Gonzalo",Argentina,ARG,VIL
+sr:competitor:161448,"Jones, Ben",Great Britain,GBR,JON
+sr:competitor:25021,"Cervantes, Inigo",Spain,ESP,CER
+sr:competitor:739643,"Loof, Thijmen",Netherlands,NLD,LOO
+sr:competitor:60614,"Poljak, David",Czechia,CZE,POL
+sr:competitor:339377,"Lehecka, Jiri",Czechia,CZE,LEH
+sr:competitor:103625,"Geerts, Michael",Belgium,BEL,GEE
+sr:competitor:72420,"Merino, Alexander",Peru,PER,MER
+sr:competitor:58877,"Ramanathan, Ramkumar",India,IND,RAM
+sr:competitor:44637,"Rodriguez, Cristian",Colombia,COL,ROC
+sr:competitor:112061,"Walkow, Szymon",Poland,POL,WAL
+sr:competitor:125006,"Borges, Nuno",Portugal,PRT,BOR
+sr:competitor:81763,"Jacq, Gregoire",France,FRA,JAC
+sr:competitor:53483,"Masur, Daniel",Germany,DEU,MAS
+sr:competitor:208123,"Maginley, Jody",Antigua and Barbuda,ATG,MAG
+sr:competitor:16275,"Dodig, Ivan",Croatia,HRV,DOD
+sr:competitor:204117,"Ugo Carabelli, Camilo",Argentina,ARG,UGO
+sr:competitor:1128937,"Miguel, Luis Guto",Brazil,BRA,MIG
+sr:competitor:927343,"Cadenasso, Gianluca",Italy,ITA,CAD
+sr:competitor:853643,"Romano, Filippo",Italy,ITA,ROM
+sr:competitor:52260,"Vega Hernandez, David",Spain,ESP,VEG
+sr:competitor:660427,"Milavsky, Daniel",USA,USA,MIL
+sr:competitor:220588,"Hsu, Yu Hsiou",Chinese Taipei,TPE,HSU
+sr:competitor:100069,"Sachko, Vitaliy",Ukraine,UKR,SAC
+sr:competitor:723013,"Pokorny, Lukas",Slovakia,SVK,POK
+sr:competitor:50148,"Puttergill, Calum",Australia,AUS,PUT
+sr:competitor:497320,"Visker, Niels",Netherlands,NLD,VIS
+sr:competitor:873679,"Bondioli, Federico",Italy,ITA,BON
+sr:competitor:396126,"Barnat, Jiri",Czechia,CZE,BAR
+sr:competitor:84671,"Britto, Luis",Brazil,BRA,BRI
+sr:competitor:216502,"Broom, Charles",Great Britain,GBR,BRO
+sr:competitor:122368,"Griekspoor, Tallon",Netherlands,NLD,GRI
+sr:competitor:534043,"Darderi, Luciano",Italy,ITA,DAR
+sr:competitor:283759,"Chidekh, Clement",France,FRA,CHI
+sr:competitor:407791,"Mackinlay, James",Great Britain,GBR,MAC
+sr:competitor:193912,"Dev, S D Prajwal",India,IND,DEV
+sr:competitor:628226,"Jans, Jarno",Netherlands,NLD,JAN
+sr:competitor:163540,"Hermans, Mats",Netherlands,NLD,HER
+sr:competitor:96629,"Duncan, Scott",Great Britain,GBR,DUN
+sr:competitor:82157,"Marcondes, Igor",Brazil,BRA,MAR
+sr:competitor:292414,"Winter Lopez, Benjamin",Spain,ESP,WIN
+sr:competitor:48225,"Dutra Da Silva, Daniel",Brazil,BRA,DUT
+sr:competitor:43319,"Duran, Guillermo",Argentina,ARG,DUR
+sr:competitor:154490,"Pearson, Kody",Australia,AUS,PEA
+sr:competitor:1020369,"Oliveira, Bruno (2002)",Brazil,BRA,OLI
+sr:competitor:181384,"Sinha, Nitin Kumar",India,IND,SIN
+sr:competitor:289021,"Charlton, Joshua",Australia,AUS,CHA
+sr:competitor:733153,"Cook, Ethan",Australia,AUS,COO
+sr:competitor:132558,"Kolar, Zdenek",Czechia,CZE,KOL
+sr:competitor:395828,"Saraiva Dos Santos, Paulo Andre",Brazil,BRA,SAR
+sr:competitor:305776,"Soto, Matias",Chile,CHL,SOT
+sr:competitor:938667,"Schwaerzler, Joel",Austria,AUT,SCH
+sr:competitor:106395,"Ricca, Giorgio",Italy,ITA,RIC
+sr:competitor:348308,"Sheehy, Joshua",USA,USA,SHE
+sr:competitor:219398,"Park, Uisung",Republic of Korea,KOR,PAR
+sr:competitor:405977,"Schoolkate, Tristan",Australia,AUS,SCH
+sr:competitor:1025093,"Bianchi, Juan Jose",Venezuela,VEN,BIA
+sr:competitor:154570,"Orlov, Vladyslav",Ukraine,UKR,ORL
+sr:competitor:221556,"Alves, Mateus",Brazil,BRA,ALV
+sr:competitor:250231,"Shimizu, Yuta",Japan,JPN,SHI
+sr:competitor:95939,"Whitehouse, Mark",Great Britain,GBR,WHI
+sr:competitor:518742,"Westphal, Max",France,FRA,WES
+sr:competitor:63446,"Jung, Jason",Chinese Taipei,TPE,JUN
+sr:competitor:60920,"Nedunchezhiyan, Jeevan",India,IND,NED
+sr:competitor:761136,"Basel, Valentin",Argentina,ARG,BAS
+sr:competitor:111609,"Barroso Campos, Alberto",Spain,ESP,BAR
+sr:competitor:210636,"Poling, Karl",USA,USA,POL
+sr:competitor:763106,"Barton, Hynek",Czechia,CZE,BAR
+sr:competitor:682903,"Nakagawa, Shunsuke",Japan,JPN,NAK
+sr:competitor:565070,"Monday, Johannus",Great Britain,GBR,MON
+sr:competitor:381022,"Wendelken, Harry",Great Britain,GBR,WEN
+sr:competitor:452787,"Kumar, Pranav",USA,USA,KUM
+sr:competitor:49417,"Tu, Li",Australia,AUS,TUL
+sr:competitor:564952,"Kusuhara, Yusuke",Japan,JPN,KUS
+sr:competitor:207777,"Imamura, Masamichi",Japan,JPN,IMA
+sr:competitor:418253,"Sach, Tai Leonard",Australia,AUS,SAT
+sr:competitor:170976,"Ribero, Franco",Argentina,ARG,RIB
+sr:competitor:434058,"Boscardin Dias, Pedro",Brazil,BRA,BOS
+sr:competitor:515510,"Heide, Gustavo",Brazil,BRA,HEI
+sr:competitor:229024,"Zahraj, Patrick",Germany,DEU,ZAH
+sr:competitor:645442,"Genov, Anthony",Bulgaria,BGR,GEN
+sr:competitor:301896,"Ovcharenko, Oleksandr",Ukraine,UKR,OVC
+sr:competitor:116616,"Clarke, Jay",Great Britain,GBR,CLA
+sr:competitor:195800,"Auger-Aliassime, Felix",Canada,CAN,AUG
+sr:competitor:95935,"Norrie, Cameron",Great Britain,GBR,NOR
+sr:competitor:407783,"Fearnley, Jacob",Great Britain,GBR,FEA
+sr:competitor:94485,"Bonzi, Benjamin",France,FRA,BON
+sr:competitor:255595,"Cerundolo, Francisco",Argentina,ARG,CER
+sr:competitor:182086,"Bass, Finn",Great Britain,GBR,BAS
+sr:competitor:412829,"Matsuda, Ryuki",Japan,JPN,MAT
+sr:competitor:222628,"Ayeni, Alafia",USA,USA,AVE
+sr:competitor:228372,"Soriano Barrera, Adria",Colombia,COL,SOR
+sr:competitor:195458,"Added, Dan",France,FRA,ADD
+sr:competitor:163438,"Sun, Fajing",China,CHN,SUN
+sr:competitor:263917,"Draxl, Liam",Canada,CAN,DRA
+sr:competitor:66086,"Kicker, Nicolas",Argentina,ARG,KIC
+sr:competitor:371448,"Llamas Ruiz, Pablo",Spain,ESP,LLA
+sr:competitor:55293,"Sabanov, Ivan",Serbia,SRB,SAB
+sr:competitor:58989,"Sabanov, Matej",Serbia,SRB,SAB
+sr:competitor:722431,"Mikrut, Luka",Croatia,HRV,MIK
+sr:competitor:246745,"Tajima, Naoki",Japan,JPN,TAJ
+sr:competitor:685379,"Ostapenkov, Daniil",Neutral,,OST
+sr:competitor:145112,"Huesler, Marc-Andrea",Switzerland,CHE,HUE
+sr:competitor:319353,"Barry, Charles",Ireland,IRL,BAR
+sr:competitor:303862,"Johns, Garrett",USA,USA,JOH
+sr:competitor:82133,"Dellien, Murkel",Bolivia,BOL,DEV
+sr:competitor:378220,"Huertas Del Pino Cordova, Arklon",Peru,PER,HUE
+sr:competitor:312440,"Thomson, Connor",Great Britain,GBR,THO
+sr:competitor:439474,"Jermar, Jan",Czechia,CZE,JER
+sr:competitor:686911,"Poljicak, Mili",Croatia,HRV,POL
+sr:competitor:353586,"Fenty, Andrew",USA,USA,FEN
+sr:competitor:43761,"Collarini, Andrea",Argentina,ARG,COL
+sr:competitor:305558,"Roncadelli, Franco",Uruguay,URY,RON
+sr:competitor:77501,"Wehnelt, Kai",Germany,DEU,WEH
+sr:competitor:458575,"Agostini, Simone",Italy,ITA,AGO
+sr:competitor:447733,"Hands, Tom",Great Britain,GBR,HAN
+sr:competitor:389078,"Lalami Laaroussi, Younes",Morocco,MAR,LAL
+sr:competitor:457059,"Montes-de la Torre, Inaki",Spain,ESP,MON
+sr:competitor:24009,"Betov, Sergey",Belarus,BLR,BET
+sr:competitor:177658,"Beauge, Maxence",France,FRA,BEA
+sr:competitor:321667,"Mayot, Harold",France,FRA,MAY
+sr:competitor:18066,"Basic, Mirza",Bosnia & Herzegovina,BIH,BAS
+sr:competitor:287541,"Sweeny, Dane",Australia,AUS,SWE
+sr:competitor:588081,"Siniakov, Daniel",Czechia,CZE,SIN
+sr:competitor:82579,"Uchida, Kaichi",Japan,JPN,UCH
+sr:competitor:395890,"Magadan, Alan",Mexico,MEX,MAG
+sr:competitor:99043,"Wang, Aoran",China,CHN,WAN
+sr:competitor:47834,"Murray, Jamie",Great Britain,GBR,MUR
+sr:competitor:603420,"Martin, Andres",USA,USA,MAR
+sr:competitor:115239,"Kaukovalta, Patrick",Finland,FIN,KAU
+sr:competitor:768772,"Bar Biryukov, Petr",Neutral,,BAR
+sr:competitor:202681,"Marrero Curbelo, Ivan",Spain,ESP,MAR
+sr:competitor:538457,"Chopra, Keshav",USA,USA,CHO
+sr:competitor:170964,"Bittoun Kouzmine, Constantin",France,FRA,BIT
+sr:competitor:369572,"Boulais, Justin",Canada,CAN,BOU
+sr:competitor:141882,"Blancaneaux, Geoffrey",France,FRA,BLA
+sr:competitor:200873,"Forcano Aparicio, Ignasi",Spain,ESP,FOR
+sr:competitor:212004,"Rodionov, Jurij",Austria,AUT,ROD
+sr:competitor:273883,"Rocha, Francisco",Portugal,PRT,ROC
+sr:competitor:407785,"Murgett, Finn",Great Britain,GBR,MUR
+sr:competitor:287543,"Hulme, Matt",Australia,AUS,HUL
+sr:competitor:312728,"Stewart, Hamish",Great Britain,GBR,STE
+sr:competitor:244388,"Kalyanpur, Adil",India,IND,KAL
+sr:competitor:84659,"Recek, Dominik",Czechia,CZE,REC
+sr:competitor:494844,"Binda, Alexandr",Italy,ITA,BIN
+sr:competitor:353548,"Hernandez, Alex",Mexico,MEX,HER
+sr:competitor:92667,"Castelnuovo, Luca",Switzerland,CHE,CAS
+sr:competitor:126356,"Munar, Jaume",Spain,ESP,MUN
+sr:competitor:266711,"Pavlovic, Luka",France,FRA,PAV
+sr:competitor:268441,"Gadamauri, Buvaysar",Belgium,BEL,GAD
+sr:competitor:906831,"Vithoontien, Leo",Japan,JPN,VIT
+sr:competitor:861461,"Caniato, Carlo Alberto",Italy,ITA,CAN
+sr:competitor:750283,"Isomura, Kokoro",Japan,JPN,ISO
+sr:competitor:530317,"Rincon, Daniel",Spain,ESP,RIN
+sr:competitor:682913,"Rocha, Henrique",Portugal,PRT,ROC
+sr:competitor:217192,"Ouakaa, Aziz",Tunisia,TUN,OUA
+sr:competitor:686709,"Simakin, Ilia",Neutral,,SIM
+sr:competitor:83263,"Santillan, Akira",Japan,JPN,SAN
+sr:competitor:605854,"Maxted, Lui",Great Britain,GBR,MAX
+sr:competitor:240264,"Reis Da Silva, Joao Lucas",Brazil,BRA,REI
+sr:competitor:1080832,"Fuchs, Zachary",USA,USA,FUC
+sr:competitor:215778,"Izquierdo Luque, Rafael",Spain,ESP,IZQ
+sr:competitor:387066,"Forejtek, Jonas",Czechia,CZE,FOR
+sr:competitor:342822,"Ichikawa, Taisei",Japan,JPN,ICH
+sr:competitor:441576,"De la Fuente, Santiago",Argentina,ARG,DLF
+sr:competitor:1011445,"Exsted, Maxwell",USA,USA,EXS
+sr:competitor:284835,"Smith, Keegan",USA,USA,SMI
+sr:competitor:322801,"Kalender, Admir",Croatia,HRV,KAL
+sr:competitor:318187,"Slavic, Nikola",Sweden,SWE,SLA
+sr:competitor:104421,"Mies, Andreas",Germany,DEU,MIE
+sr:competitor:223788,"Stepanov, Roy",Israel,ISR,STE
+sr:competitor:51345,"Damm Jr, Martin",USA,USA,DAM
+sr:competitor:822192,"Poulsen, Oskar Brostrom",Denmark,DNK,POU
+sr:competitor:48055,"Hsieh, Cheng-Peng",Chinese Taipei,TPE,HSI
+sr:competitor:671637,"Fils, Arthur",France,FRA,FIL
+sr:competitor:972327,"Jodar, Rafael",Spain,ESP,JOD
+sr:competitor:175014,"Moutet, Corentin",France,FRA,MOU
+sr:competitor:117916,"Shapovalov, Denis",Canada,CAN,SHA
+sr:competitor:136042,"Fritz, Taylor",USA,USA,FRI
+sr:competitor:675175,"McCabe, James",Australia,AUS,MCC
+sr:competitor:63438,"McDonald, Mackenzie",USA,USA,MCD
+sr:competitor:128552,"Popyrin, Alexei",Australia,AUS,POP
+sr:competitor:102339,"Van de Zandschulp, Botic",Netherlands,NLD,VAN
+sr:competitor:472975,"Bellucci, Mattia",Italy,ITA,BEL
+sr:competitor:122366,"Tsitsipas, Stefanos",Greece,GRC,TSI
+sr:competitor:337601,"Bu, Yunchaokete",China,CHN,YUN
+sr:competitor:39711,"Duckworth, James",Australia,AUS,DUC
+sr:competitor:254383,"Marozsan, Fabian",Hungary,HUN,MAR
+sr:competitor:763108,"Mensik, Jakub",Czechia,CZE,MEN
+sr:competitor:399637,"Cobolli, Flavio",Italy,ITA,COB
+sr:competitor:77223,"Martinez, Pedro",Spain,ESP,MAR
+sr:competitor:93589,"Kellovsky, Dominik",Czechia,CZE,KEL
+sr:competitor:450343,"Hussey, Giles",Great Britain,GBR,HUS
+sr:competitor:312436,"Hudd, Emile",Great Britain,GBR,HUD
+sr:competitor:126402,"Denolly, Corentin",France,FRA,DEN
+sr:competitor:414501,"Houkes, Max",Netherlands,NLD,HOU
+sr:competitor:165234,"Vasa, Eero",Finland,FIN,VAS
+sr:competitor:145122,"Martineau, Matteo",France,FRA,MAR
+sr:competitor:36300,"Travaglia, Stefano",Italy,ITA,TRA
+sr:competitor:759758,"Sakellaridis, Dimitris",Greece,GRC,SAK
+sr:competitor:797282,"Dumitru, Alexandru Cristian",Romania,ROU,DUM
+sr:competitor:155860,"Lock, Courtney John",Zimbabwe,ZWE,LOC
+sr:competitor:121668,"Meligeni Alves, Felipe",Brazil,BRA,MEL
+sr:competitor:373348,"Pucinelli de Almeida, Matheus",Brazil,BRA,PDA
+sr:competitor:679481,"Hopper, James",Great Britain,GBR,HOP
+sr:competitor:138528,"Mejia, Nicolas",Colombia,COL,MEJ
+sr:competitor:840614,"Nagel, Arthur",France,FRA,NAG
+sr:competitor:256481,"Marques, Diogo",Portugal,PRT,MAR
+sr:competitor:65606,"Agamenone, Franco",Italy,ITA,AGA
+sr:competitor:121248,"Roveri Sidney, Gabriel",Brazil,BRA,ROV
+sr:competitor:866247,"Ratti, Lucio",Argentina,ARG,RAT
+sr:competitor:635386,"Popovic, Stefan",Serbia,SRB,POP
+sr:competitor:297608,"Hazawa, Shinji",Japan,JPN,HAZ
+sr:competitor:161868,"Huertas Del Pino, Connor",Peru,PER,HUE
+sr:competitor:54975,"Casanova, Hernan",Argentina,ARG,CAS
+sr:competitor:418167,"Garcian, Axel",France,FRA,GAR
+sr:competitor:515498,"Rodrigues, Natan",Brazil,BRA,ROD
+sr:competitor:308834,"Schachter, Noah",USA,USA,SCH
+sr:competitor:915153,"Dodig, Matej",Croatia,HRV,DOD
+sr:competitor:130442,"Rai, Ajeet",New Zealand,NZL,RAI
+sr:competitor:154740,"Delaney, Jesse",Australia,AUS,DEL
+sr:competitor:403357,"Thayne, Wally",USA,USA,THA
+sr:competitor:108767,"Hassan, Benjamin",Lebanon,LBN,HAS
+sr:competitor:431697,"Torres, Tiago",Portugal,PRT,TOR
+sr:competitor:120956,"Alcantara, Francis Casey",Philippines,PHL,ALC
+sr:competitor:908699,"Bilardo, Jacopo",Italy,ITA,BIL
+sr:competitor:78387,"Hach Verdugo, Hans",Mexico,MEX,HAC
+sr:competitor:251091,"Noguchi, Rio",Japan,JPN,NOG
+sr:competitor:620338,"Sharipov, Marat",Neutral,,SHA
+sr:competitor:341188,"Justo, Guido Ivan",Argentina,ARG,JUS
+sr:competitor:983047,"Carboni, Lorenzo",Italy,ITA,CAR
+sr:competitor:681071,"Ganta, Sai Karteek Reddy",India,IND,GAN
+sr:competitor:179294,"Opitz, Jannik",Germany,DEU,OPI
+sr:competitor:385204,"Verbin, Pavel",Neutral,,VER
+sr:competitor:42164,"Bangoura, Sekou",USA,USA,BAN
+sr:competitor:376372,"Perez, Brandon",Venezuela,VEN,PER
+sr:competitor:16852,"Uzhylovskyi, Volodoymyr",Ukraine,UKR,UZV
+sr:competitor:645452,"Nesterov, Pyotr",Bulgaria,BGR,NES
+sr:competitor:230152,"Zeuch, Tom",Germany,DEU,ZEU
+sr:competitor:933891,"Hipfl, Nico",Austria,AUT,HIP
+sr:competitor:452691,"Araujo, Pedro",Portugal,PRT,ARA
+sr:competitor:252239,"Forti, Francesco",Italy,ITA,FOR
+sr:competitor:244783,"Lorusso, Lorenzo",Italy,ITA,LOR
+sr:competitor:682911,"Faria, Jaime",Portugal,PRT,FAR
+sr:competitor:345060,"Kingsley, Cannon",USA,USA,KIN
+sr:competitor:156826,"van Wyk, Kris",South Africa,ZAF,VAN
+sr:competitor:160104,"Vance, Jamie",USA,USA,VAN
+sr:competitor:130494,"Neos, Eleftherios",Cyprus,CYP,NEO
+sr:competitor:124934,"Lomakin, Grigoriy",Kazakhstan,KAZ,LOM
+sr:competitor:51100,"Roca Batalla, Oriol",Spain,ESP,ROC
+sr:competitor:243478,"Vives Marcos, Pedro",Spain,ESP,VIV
+sr:competitor:951299,"Tobon, Miguel",Colombia,COL,TOB
+sr:competitor:952887,"Aguilar Cardozo, Joaquin",Uruguay,URY,AGU
+sr:competitor:171072,"Hsu, Jeffrey Chuan En",Chinese Taipei,TPE,HSU
+sr:competitor:256875,"Tirante, Thiago Agustin",Argentina,ARG,TIR
+sr:competitor:809322,"Shick, Braden",USA,USA,SHI
+sr:competitor:350814,"Vankan, Marlon",Germany,DEU,VAN
+sr:competitor:433906,"Couto Loureiro, Joao Victor",Brazil,BRA,COU
+sr:competitor:138712,"Oradini, Giovanni",Italy,ITA,ORA
+sr:competitor:365412,"Sanchez Martinez, Benito",Germany,DEU,SAN
+sr:competitor:812862,"Homberg, Maximilian",Germany,DEU,HOM
+sr:competitor:228766,"Braynin, Aleksandr",Ukraine,UKR,BRA
+sr:competitor:337607,"Yang, Zijiang",China,CHN,YAN
+sr:competitor:342826,"Trotter, James Kent",Japan,JPN,TRO
+sr:competitor:797330,"Maksimovic, Marko",Serbia,SRB,MAK
+sr:competitor:114885,"Nikles, Johan",Switzerland,CHE,NIK
+sr:competitor:260947,"Falabella, Lautaro Agustin",Argentina,ARG,FAL
+sr:competitor:891669,"Tien, Learner",USA,USA,TIE
+sr:competitor:418213,"Diallo, Gabriel",Canada,CAN,DIA
+sr:competitor:88992,"Muller, Alexandre",France,FRA,MUL
+sr:competitor:552469,"Agafonov, Egor",Neutral,,AGA
+sr:competitor:256393,"Kravchenko, Georgii",Ukraine,UKR,KRA
+sr:competitor:224024,"Alvarez Varona, Nicolas",Spain,ESP,ALV
+sr:competitor:580167,"Nedic, Andrej",Bosnia & Herzegovina,BIH,NED
+sr:competitor:369630,"Strombachs, Robert",Germany,DEU,STR
+sr:competitor:679699,"Bertrand, Robin",France,FRA,BER
+sr:competitor:101157,"Rybakov, Alex",USA,USA,RYB
+sr:competitor:52276,"Krueger, Mitchell",USA,USA,KRU
+sr:competitor:501410,"Hignett, Liam",Great Britain,GBR,HIG
+sr:competitor:637610,"Overbeck, Carl Emil",Denmark,DNK,OVE
+sr:competitor:382056,"Bouquier, Arthur",France,FRA,BOU
+sr:competitor:353298,"van der Meerschen, Martin",Belgium,BEL,VAN
+sr:competitor:215696,"Schell, Niklas",Germany,DEU,SCH
+sr:competitor:812360,"Sueoka, Yamato",Japan,JPN,SUE
+sr:competitor:402317,"Dostanic, Stefan",USA,USA,DOS
+sr:competitor:518802,"Cigarran, Thiago",Argentina,ARG,CIG
+sr:competitor:283965,"Suresh, Dhakshineswar",India,IND,SUR
+sr:competitor:163492,"Tamm, Kristjan",Estonia,EST,TAM
+sr:competitor:102151,"Tabilo, Alejandro",Chile,CHL,TAB
+sr:competitor:908817,"Woestendick, Cooper",USA,USA,WOE
+sr:competitor:834054,"Prado Angelo, Juan Carlos",Bolivia,BOL,PRA
+sr:competitor:46259,"Neuchrist, Maximilian",Austria,AUT,NEU
+sr:competitor:317355,"Somani, Parikshit",India,IND,SOM
+sr:competitor:212046,"de Jonge, Daniel",Netherlands,NLD,DE
+sr:competitor:668817,"Shepp, Anton",New Zealand,NZL,SHE
+sr:competitor:350440,"Zeng, Yaojie",China,CHN,ZEN
+sr:competitor:341218,"Colson, Tibo",Belgium,BEL,COL
+sr:competitor:180948,"Parizzia, Nicolas",Switzerland,CHE,PAR
+sr:competitor:978579,"Ghazouani Durand, Yanis",France,FRA,GHA
+sr:competitor:1196859,"Suarez, Billy",USA,USA,SUA
+sr:competitor:50037,"Bortolotti, Marco",Italy,ITA,BOR
+sr:competitor:294248,"Hellum Lilleengen, Lukas",Norway,NOR,HEL
+sr:competitor:14508,"Mahut, Nicolas",France,FRA,MAH
+sr:competitor:283451,"Rodriguez, Lorenzo Joaquin",Argentina,ARG,ROD
+sr:competitor:652290,"Ambrogi, Luciano Emanuel",Argentina,ARG,AMB
+sr:competitor:64920,"Myneni, Saketh",India,IND,MYN
+sr:competitor:580165,"Johansson, Oliver",Sweden,SWE,JOH
+sr:competitor:215492,"Cui, Jie",China,CHN,CUI
+sr:competitor:844726,"Bozemoj, Brian",Netherlands,NLD,BOZ
+sr:competitor:783794,"Singh, Karan (IND)",India,IND,SIN
+sr:competitor:193008,"Graca, Joao",Portugal,PRT,GRA
+sr:competitor:208165,"Fomin, Sergey",Uzbekistan,UZB,FOM
+sr:competitor:16043,"Middelkoop, Matwe",Netherlands,NLD,MID
+sr:competitor:157394,"Rosenkranz, Mats",Germany,DEU,ROS
+sr:competitor:393574,"Becerra Otarola, Ignacio Antonio",Chile,CHL,BEC
+sr:competitor:255409,"Nortey, Isaac",Ghana,GHA,NOR
+sr:competitor:255601,"Tenti, Fermin",Argentina,ARG,TEN
+sr:competitor:258735,"Cerundolo, Juan Manuel",Argentina,ARG,CER
+sr:competitor:111837,"Harris, Billy",Great Britain,GBR,HAR
+sr:competitor:496346,"Stricker, Dominic",Switzerland,CHE,STR
+sr:competitor:227358,"Walton, Adam",Australia,AUS,WAL
+sr:competitor:17080,"Tomic, Bernard",Australia,AUS,TOM
+sr:competitor:978589,"Almazan Valiente, Izan",Spain,ESP,ALM
+sr:competitor:445313,"Sharma, Atharva",India,IND,SHA
+sr:competitor:63090,"Fatic, Nerman",Bosnia & Herzegovina,BIH,FAT
+sr:competitor:16564,"Pereira, Jose",Brazil,BRA,PER
+sr:competitor:245779,"Martin, Dan",Canada,CAN,MAR
+sr:competitor:935773,"Cho, Seung Woo",Republic of Korea,KOR,CHO
+sr:competitor:529399,"Papa, Christopher",USA,USA,PAP
+sr:competitor:59984,"Trongcharoenchaikul, Wishaya",Thailand,THA,TRO
