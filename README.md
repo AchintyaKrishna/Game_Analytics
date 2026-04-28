@@ -226,14 +226,6 @@ Install all at once:
 pip install -r requirements.txt
 ```
 
----
-
-## 📄 Documentation
-
-Full project documentation is available in [`game_analysis_doc.pdf`](./game_analysis_doc.pdf), covering the API integration design, data model decisions, and query rationale.
-
----
-
 ## 🏗️ Architecture Overview
 
 ```
