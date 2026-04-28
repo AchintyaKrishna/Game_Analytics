@@ -261,7 +261,3 @@ Tennis_Data_Pipeline.ipynb
 ## 📝 License
 
 This project was built for educational and portfolio purposes using the SportRadar Trial API.
-
----
-
-*Built with ❤️ using Python, MySQL, and Streamlit.*
