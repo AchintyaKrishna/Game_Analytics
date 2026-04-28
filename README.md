@@ -183,7 +183,7 @@ The interactive dashboard (`app/app.py`) gives users a **professional analytics 
 streamlit run app/app.py
 ```
 
-The app will be available at **http://localhost:8501**
+The app will be available at **[http://localhost:8501](https://tennis-stats.streamlit.app/)**
 
 ---
 
