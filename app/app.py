@@ -257,8 +257,7 @@ with tab_player_search:
             fig_gauge.update_layout(paper_bgcolor="rgba(0,0,0,0)", font={'color': "white"})
             st.plotly_chart(fig_gauge, use_container_width=True)
 
+
 # --- FOOTER ---
 st.markdown("---")
-footer_l, footer_r = st.columns(2)
-footer_l.markdown("Built with ❤️ using **Streamlit** & **SportRadar API**")
-footer_r.markdown("<div style='text-align: right;'>© 2024 Tennis Analytics Pro</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: right;'>© 2024 Tennis Analytics Pro</div>", unsafe_allow_html=True)
